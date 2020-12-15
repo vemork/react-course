@@ -1,0 +1,12 @@
+# NOTAS
+
+Librería para crear aplicaciones 
+Declarativa
+Eficiente
+La información fluye en un solo sentido
+Se basa en componentes
+Se puede trabajar de forma multiplataforma y en ambientes web, movil y escritorio
+
+Para conocer la versión instalada (disponible)
+npx --version
+
