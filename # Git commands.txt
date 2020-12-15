@@ -1,0 +1,10 @@
+# Git commands
+
+para conocer la versión de git instalada
+
+git --version
+
+para configurar el nombre asociado a nuestro git
+
+git config --global user.name "Emmanuel"
+git config --global user.email "derubio1@gmail.com"
