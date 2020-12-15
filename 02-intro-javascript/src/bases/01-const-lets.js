@@ -6,8 +6,6 @@
 NO USAR VAR de ahora en adelante
 es mejor trabajar con constantes y let
 
-
-
 */
 
 const nombre = "Emmanuel";

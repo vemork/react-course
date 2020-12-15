@@ -17,6 +17,7 @@ console.log(nombreCompleto);
 const nombreCompleto2 = `${nombre} ${apellido}`;
 console.log(nombreCompleto2);
 
+/** los string templates pueden soportar saltos de línea */
 const nombreCompleto3 = `
 ${nombre}
 ${apellido}
